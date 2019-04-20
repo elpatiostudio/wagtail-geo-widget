@@ -1,13 +1,13 @@
 # Getting started
 
-## Requirements
+### Requirements
 
 - Python 2.7 / Python 3.5+
 - Wagtail 2.3+ and Django
 - A Google account
 
 
-## Installation
+### Installation
 
 Install the library with pip:
 
@@ -16,7 +16,7 @@ $ pip install wagtailgeowidget
 ```
 
 
-## Quick Setup
+### Quick Setup
 
 Add `wagtailgeowidget` to your `INSTALLED_APPS` in Django settings.
 
@@ -28,7 +28,7 @@ INSTALLED_APPS = (
 ```
 
 
-## Retriving a Google Maps Api key
+### Retriving a Google Maps Api key
 
 - Follow [Googles guide](https://developers.google.com/maps/documentation/javascript/get-api-key) on how to retrive a api key
     - Open the link then click the "Get Started"
@@ -43,7 +43,7 @@ INSTALLED_APPS = (
     ```
 
 
-## Whats next?
+### Whats next?
 
 Depending on your use case you can read either of these guides:
 
