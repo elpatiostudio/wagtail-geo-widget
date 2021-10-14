@@ -67,8 +67,6 @@ class GeoPage(Page):
     ])
 
 
-
-
 class GeoStreamPage(Page):
     body = StreamField([
         ('map', GeoBlock()),
